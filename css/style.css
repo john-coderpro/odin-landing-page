@@ -117,7 +117,7 @@ body {
   flex-flow: row wrap; }
 
 .media {
-  flex: 1 0 default; }
+  flex: 1 0 auto; }
 
 .blockquote {
   background-color: #e5e7eb;
