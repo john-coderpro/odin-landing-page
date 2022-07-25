@@ -133,18 +133,27 @@ body {
     width: 50%; }
 
 .blockquote__text {
-  font-size: 36px;
-  font-weight: light;
+  font-size: 2.2rem;
+  font-weight: 400;
   font-style: italic;
   margin-bottom: 0; }
 
 .blockquote__title {
   font-weight: 700;
   text-align: end;
-  font-size: 20px;
+  font-size: 1.1rem;
   margin-top: 0;
   color: black; }
 
+@media (max-width: 40em) {
+  .blockquote {
+    margin: 1em 0; }
+
+  .blockquote__text {
+    font-size: 1.2rem; }
+
+  .blockquote__title {
+    font-size: .8rem; } }
 .last-cta {
   width: 80vw;
   max-width: 900px;
