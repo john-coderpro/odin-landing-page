@@ -1,6 +1,6 @@
 /*** VARIABLES***/
 /*** GLOBAL STYLES ***/
-.root {
+:root {
   font-size: 1rem;
   font-size: clamp(0.8rem, calc(0.5rem + 1vw), 1.2rem);
   box-sizing: border-box; }
