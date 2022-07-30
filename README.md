@@ -23,3 +23,5 @@ Changes
 
 ``` 
 lol
+
+[live preview](https://john-coderpro.github.io/odin-landing-page/)
